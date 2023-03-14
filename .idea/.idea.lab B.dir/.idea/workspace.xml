@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61d8a3f8-fff0-4ab9-8c5d-b8b8466fced3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.lab B.dir/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.lab B.dir/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1B/Lab1-12-EN-B.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1B/Lab1-12-EN-B/.idea/.idea.Lab1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1B/Lab1-12-EN-B/.idea/.idea.Lab1/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1B/Lab1-12-EN-B/.idea/.idea.Lab1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1B/Lab1-12-EN-B/.idea/.idea.Lab1/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1B/Lab1-12-EN-B/.vs/Lab1/xs/UserPrefs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1B/Lab1-12-EN-B/.vs/Lab1/xs/project-cache/Lab1-Debug.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1B/Lab1-12-EN-B/Lab1.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1B/Lab1-12-EN-B/Lab1/FragilityType.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1B/Lab1-12-EN-B/Lab1/Lab1.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1B/Lab1-12-EN-B/Lab1/Parcels/IParcel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1B/Lab1-12-EN-B/Lab1/Parcels/OrdinaryParcel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1B/Lab1-12-EN-B/Lab1/ParcelsManipulator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1B/Lab1-12-EN-B/Lab1/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1B/Lab1-12-EN-B/Lab1/Task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2B.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2B/.idea/.idea.Vectors2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2B/.idea/.idea.Vectors2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2B/.idea/.idea.Vectors2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2B/.idea/.idea.Vectors2/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2B/Algorithms.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2B/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2B/Vectors/RangeVector.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2B/Vectors/SparseVector.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2B/Vectors/baseIterator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2B/Vectors2.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2B/Vectors2.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2B/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3B/Task3B_ENG12.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4B/ProcessManager2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4B/ProcessManager2/.idea/.idea.ProcessManager/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4B/ProcessManager2/.idea/.idea.ProcessManager/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4B/ProcessManager2/.idea/.idea.ProcessManager/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4B/ProcessManager2/.idea/.idea.ProcessManager/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4B/ProcessManager2/ProcessManager.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4B/ProcessManager2/ProcessManager/IManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4B/ProcessManager2/ProcessManager/IProcess.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4B/ProcessManager2/ProcessManager/ProcessManager.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4B/ProcessManager2/ProcessManager/Processes/CompoundProcess.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4B/ProcessManager2/ProcessManager/Processes/ExclusiveProcess.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4B/ProcessManager2/ProcessManager/Processes/GroupProcess.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4B/ProcessManager2/ProcessManager/Processes/RootProcess.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4B/ProcessManager2/ProcessManager/Processes/UnitProcess.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4B/ProcessManager2/ProcessManager/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4B/ProcessManager2/ProcessManager/State.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4B/ProcessManager2/ProcessManager/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4B/ProcessManager2/global.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/lab1B/Lab1-12-EN-B/Lab1/Program.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2N1O5OZE2nSxZaN2FFKCzMlaqon" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/Users/egecan/Library/Application Support/JetBrains/Rider2022.3/resharper-host/DecompilerCache",
+      "/Users/egecan/Library/Application Support/JetBrains/Rider2022.3/resharper-host/SourcesCache",
+      "/Users/egecan/.local/share/Symbols/src"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61d8a3f8-fff0-4ab9-8c5d-b8b8466fced3" name="Changes" comment="" />
+      <created>1678827940338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678827940338</updated>
+      <workItem from="1678827941311" duration="492000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

@@ -1,0 +1,54 @@
+﻿Parcels
+
+There is a database of parcels. We want to modify them for clients according to their and our needs. There might be several modifications applied to the same parcel.
+We never know which modifications will be optimal for different customers.
+The solution must allow for:
+ - adding new types of modifications;
+ - composing of any set of modifications together.
+A new composition should not require any new class definition. 
+
+Task:
+
+  Part 1)  
+    
+  Implement following methods which will allow for specified behavior:
+  - ChangeParcelWeight:
+    - this method should allow to change the weight of a parcel to a provided value,
+  - ChangeParcelCubature:
+    - this method should allow to change the cubature of a parcel to a provided value,
+    - delivery date should be increased by the 2 * newCubature/oldCubature days,
+  - MakeParcelFragile:
+    - uses FragilityType enum,
+    - GetDescription should print the type of fragility,
+    - weight of a parcel should by multiplied by 2
+  - MakeParcelExpress:
+    - this method should decrease delivery date by a number of days,
+    - cubature should be halved,
+  - SetParcelAsForgotten:
+    - weight of a parcel is calculated using following formula: (random (use 0 as a seed) number from 0 to 1) * 3 + 0.5,  
+    - cubature stays the same,
+    - delivery date is changed to max value.
+
+  Part 2)
+
+  For all parcels in the database: 
+    – change their cubature to 2 * original cubature, then increase their weight by 5;
+
+  For all parcels in the database: 
+    – make them express with a decrease in an arival time of 10;
+
+
+  Part 3)
+  
+  Implement following methods:
+  - MakeDescriptionUnreadable:
+    - every second character of the description should be '_'
+  - TranslateDescription:
+    - description should be changed to "following description is in french:\n" + description  
+
+  You are *not* allowed to modify following files outside of designated spaces:
+  - OrdinaryParcel.cs
+  - IParcel.cs
+  - Program.cs
+  - FragilityType.cs
+ 

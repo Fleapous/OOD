@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{4D245F59-C21B-4EA6-AADB-37A93DF1C967}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Lab1/ParcelsManipulator.cs" NotebookId="1" />
+      <File FileName="Lab1/Program.cs" NotebookId="1" />
+      <File FileName="Lab1/Parcels/IParcel.cs" NotebookId="2" />
+      <File FileName="Lab1/Parcels/OrdinaryParcel.cs" NotebookId="2" />
+      <File FileName="Lab1/FragilityType.cs" NotebookId="2" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="0" Y="25" Width="1440" Height="795">
+        <Files>
+          <File FileName="Lab1/Task.txt" Line="25" Column="68" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab1" expanded="True">
+            <Node name="Lab1" expanded="True">
+              <Node name="Parcels" expanded="True" />
+              <Node name="ParcelsManipulator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
